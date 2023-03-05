@@ -57,7 +57,7 @@ body {
 }
 
 #billentyuzet .betu {
-    font-size: 150%;
+    font-size: 120%;
     padding: 1rem;
     background-color: rgb(199, 199, 199);
     border-radius: 100px;
@@ -70,7 +70,7 @@ body {
 }
 
 #billentyuzet .betu-szintelen {
-    font-size: 150%;
+    font-size: 120%;
     padding: 1rem;
     border-radius: 50%;
 }
